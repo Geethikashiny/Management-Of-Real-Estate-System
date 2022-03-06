@@ -24,10 +24,11 @@ Step 6: Final Step Just provide the Admin’s login detail, it will redirect you
  
 
 
-Management Of Real Estate System WEBSITE![Screenshot (42)](https://user-images.githubusercontent.com/99495187/156914399-92f055b2-5855-4445-b7a3-0d8aec54cda6.png)
 
 
-LOGIN PAGE:
+MANAGEMENT OF REALESTATE SYSTEM:
+![Screenshot (36)](https://user-images.githubusercontent.com/99495187/156914491-7f7b180e-f68a-4acf-a322-61aaaa22a582.png)
+
 
 
 
