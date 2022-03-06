@@ -1,5 +1,5 @@
 # Management-Of-Real-Estate-System
-Management Of Real Estate System WEBSITE![Screenshot (36)](https://user-images.githubusercontent.com/99495187/156914324-84d490b5-b159-4dc0-a416-ce833c573772.png)
+
 
 ****  MANAGEMENT  OF  REAL  ESTATE  SYSTEM ****
  
@@ -22,6 +22,13 @@ Step 6: Final Step Just provide the Admin’s login detail, it will redirect you
                             Admin Username : admin
                             Password : admin
  
+
+
+Management Of Real Estate System WEBSITE![Screenshot (42)](https://user-images.githubusercontent.com/99495187/156914399-92f055b2-5855-4445-b7a3-0d8aec54cda6.png)
+
+
+LOGIN PAGE:
+
 
 
 
